@@ -12,4 +12,4 @@ Alex Krakau
 |[lab_4](Week_4\Lab_4\README.md)|
 |[lab_5](Week_5Lab_5\README.md)|
 |[lab_6](Week_6\Lab_6\README.md)|
-|[lab_7](Week_7\Lab_7\README.md)|
+|[lab_7](Week_7_Lab_7_README.md)|
