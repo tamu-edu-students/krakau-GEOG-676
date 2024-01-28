@@ -3,8 +3,8 @@ GEOG 676 Classwork
 
 Alex Krakau
 
-|Labs|
-|:     :|
+|Labs     |
+|:       :|
 |[lab_1](Lab_1\README.md)|
 |[lab_2](Lab_2\README.md)|
 |[lab_3](Lab_3\README.md)|
