@@ -6,7 +6,7 @@ Alex Krakau
 
 |   Labs    |
 |-----------|
-|[lab_1](Lab_1/README.md)|
+|[lab_1](Lab1/README.md)|
 |[lab_2](Week_2/Lab_2/README.md)|
 |[lab_3](Week_3/Lab_3/README.md)|
 |[lab_4](Week_4/Lab_4/README.md)|
